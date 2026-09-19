@@ -60,7 +60,7 @@ Built and tested with GCC on Linux; the Windows build with Visual C++ is partial
 | `src/btc_func.*` | 8-to-5 bit conversion and helpers |
 | `src/mainwindow.*` | Qt6 interface |
 | `src/test.cpp` | console harness that checks the derivations against known vectors |
-| `task/` | original problem statement, algorithm notes and test logs |
+| `task/` | algorithm notes and verification logs |
 
 ## Origin
 
